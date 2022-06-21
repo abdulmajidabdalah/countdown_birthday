@@ -1,0 +1,41 @@
+body {
+    background: ghostwhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+.dark-mode {
+    background: black;
+    color: white;
+}
+
+p {
+    text-align: center;
+    font-size: 60px;
+}
+
+.bg-light {
+    background: white !important;
+    color: black !important;
+}
+
+#tombol {
+    border: 2px solid yellow;
+    font-size: 30px;
+    background: black;
+    color: white;
+    text-align: center;
+    margin: 2re auto;
+    cursor: pointer;
+    border-radius: 1rem 1rem 1rem 1rem;
+    -webkit-border-radius: 1rem 1rem 1rem 1rem;
+    -moz-border-radius: 1rem 1rem 1rem 1rem;
+    -ms-border-radius: 1rem 1rem 1rem 1rem;
+    -o-border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.center {
+    text-align: center;
+}
